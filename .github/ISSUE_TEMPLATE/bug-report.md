@@ -21,7 +21,7 @@ Other information need to filled up possibly.
 **Brief what deployment process you are following**:
 (Please fill this for deployment related issues.)
 
-**How to reproduce it **: 
+**How to reproduce it**: 
 (as minimally and precisely as possible)
 
 **Anything else we need to know?**:
