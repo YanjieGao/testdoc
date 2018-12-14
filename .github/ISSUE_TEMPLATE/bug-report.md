@@ -8,10 +8,6 @@ about: Report an issue encountered while using OpenPAI
 
 
 **Customer name**:
-Deployment version
-Initial deployment or upgrading?
-Brief what deployment process they are following
-Other information need to filled up possibly.
 
 **What happened**:
 
