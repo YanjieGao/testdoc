@@ -15,13 +15,14 @@ Other information need to filled up possibly.
 
 **What happened**:
 
-**Initial deployment or upgrading**
+**Initial deployment or upgrading**:
 (Please fill this for deployment related issues.)
 
-**Brief what deployment process you are following**
+**Brief what deployment process you are following**:
 (Please fill this for deployment related issues.)
 
-**How to reproduce it (as minimally and precisely as possible)**:
+**How to reproduce it **: 
+(as minimally and precisely as possible)
 
 **Anything else we need to know?**:
 
