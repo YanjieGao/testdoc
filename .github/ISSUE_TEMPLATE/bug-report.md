@@ -27,6 +27,5 @@ about: Report an issue encountered while using OpenPAI
 - Cloud provider or hardware configuration:
 - OS (e.g. from /etc/os-release):
 - Kernel (e.g. `uname -a`):
-- Initial deployment or upgrading:
 - Others:
 
