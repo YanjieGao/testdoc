@@ -24,7 +24,7 @@ Other information need to filled up possibly.
 **How to reproduce it**: 
 (as minimally and precisely as possible)
 
-**Anything else we need to know?**:
+**Anything else we need to know**:
 
 **Environment**:
 - OpenPAI version:
