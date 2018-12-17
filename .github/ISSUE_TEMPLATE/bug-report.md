@@ -1,6 +1,6 @@
 ---
 name: Create an issue
-about: Report an issue encountered while using OpenPAI
+about: Report an issue encountered while operating OpenPAI
 
 ---
 
