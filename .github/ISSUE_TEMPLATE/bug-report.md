@@ -13,9 +13,16 @@ about: Report an issue encountered while operating OpenPAI
 
 **Short summary about the issue/question**:
 
-**Initial deployment / upgrading / operating**: 
+**Brief what process you are following**: 
 
-**Brief what  deployment / upgrading / operating process you are following**: 
+<!--(1) Please fill this for deployment related issues: 
+- Operating type: Initial deployment / upgrading / operating etc.
+- Brief what deployment process you are following -->
+
+<!--(2) Please fill this for user job related issues: 
+- Job json config file
+- Exception log
+- Brief what process you are following -->
 
 **How to reproduce it**: 
 
