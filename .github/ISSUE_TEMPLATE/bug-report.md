@@ -7,7 +7,9 @@ about: Report an issue encountered while using OpenPAI
 <!-- Please use this template while reporting an issue and provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner. Thanks!-->
 
 
-**Organization Name**: (This information is optional, but you are highly encourage to leave this reference info for us to know better about the context.)
+**Organization Name**: 
+
+<!--This information is optional, but you are highly encourage to leave this reference info for us to know better about the context.!-->
 
 **Short summary about the issue/question**:
 
@@ -18,7 +20,8 @@ about: Report an issue encountered while using OpenPAI
 **Anything else we need to know**:
 
 **How to reproduce it**: 
-(Fill the following information if your issue need diagnostic support from the team, as minimally and precisely as possible)
+
+<!--Fill the following information if your issue need diagnostic support from the team, as minimally and precisely as possible!-->
 
 **OpenPAI Environment**:
 - OpenPAI version:
