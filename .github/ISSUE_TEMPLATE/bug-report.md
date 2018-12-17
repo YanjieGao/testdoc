@@ -7,22 +7,20 @@ about: Report an issue encountered while using OpenPAI
 <!-- Please use this template while reporting an issue and provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner. Thanks!-->
 
 
-**Customer name**:
+**Organization Name**: (This information is optional, but you are highly encourage to leave this reference info for us to know better about the context.)
 
-**What happened**:
+**Short summary about the issue/question**:
 
-**Initial deployment or upgrading**:
-(Please fill this for deployment related issues.)
+**Initial deployment / upgrading / operating**: 
 
-**Brief what deployment process you are following**:
-(Please fill this for deployment related issues.)
-
-**How to reproduce it**: 
-(as minimally and precisely as possible)
+**Brief what  deployment / upgrading / operating process you are following**: 
 
 **Anything else we need to know**:
 
-**Environment**:
+**How to reproduce it**: 
+(Fill the following information if your issue need diagnostic support from the team, as minimally and precisely as possible)
+
+**OpenPAI Environment**:
 - OpenPAI version:
 - Cloud provider or hardware configuration:
 - OS (e.g. from /etc/os-release):
