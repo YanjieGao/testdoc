@@ -15,14 +15,15 @@ about: Report an issue encountered while operating OpenPAI
 
 **Brief what process you are following**: 
 
-<!--(1) Please fill this for deployment related issues: 
+<!--deployment related issues
+Please fill this for deployment related issues: 
 - Operating type: Initial deployment / upgrading / operating etc.
 - Brief what deployment process you are following -->
 
-<!--(2) Please fill this for user job related issues: 
-- Job json config file
-- Exception log
-- Brief what process you are following -->
+<!--User job related issues
+GitHub is not the right place for support requests.
+If you're looking for help, check [Stack Overflow](https://stackoverflow.com/questions/tagged/openpai) and the [troubleshooting guide](https://github.com/Microsoft/pai/blob/master/docs/job_log.md and https://github.com/Microsoft/pai/blob/master/docs/job_tutorial.md#debug).
+-->
 
 **How to reproduce it**: 
 
