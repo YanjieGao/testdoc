@@ -11,5 +11,3 @@ about: Suggest an enhancement to the OpenPAI project
 
 **Components that may involve changes**:
 
-<!-- DO NOT EDIT BELOW THIS LINE -->
-/kind new feature
