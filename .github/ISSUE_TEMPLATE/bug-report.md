@@ -17,8 +17,6 @@ about: Report an issue encountered while using OpenPAI
 
 **Brief what  deployment / upgrading / operating process you are following**: 
 
-**Anything else we need to know**:
-
 **How to reproduce it**: 
 
 <!--Fill the following information if your issue need diagnostic support from the team, as minimally and precisely as possible!-->
@@ -30,3 +28,4 @@ about: Report an issue encountered while using OpenPAI
 - Kernel (e.g. `uname -a`):
 - Others:
 
+**Anything else we need to know**:
